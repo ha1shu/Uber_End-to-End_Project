@@ -1,0 +1,15 @@
+{
+	"name": "UberFactoryEvents",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69b14234-5745-4414-9db6-7088ca7d69f1",
+		"tenantId": "b2669d95-a857-4c42-8620-928db0fbb5e4"
+	}
+}
