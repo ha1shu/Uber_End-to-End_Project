@@ -8,7 +8,6 @@ Built an end-to-end ELT pipeline for Uber ride analytics using Medallion Archite
 
 
 Task 1: Explore Azure Portal & Create Resource Group
-Screenshot
 
 <img width="1645" height="880" alt="image" src="https://github.com/user-attachments/assets/790957bb-5b1d-46d9-83cd-b901f6baea03" />
 
@@ -17,7 +16,7 @@ Task 2: Storage Setup
 Created Storage Account
 Created Blob Container
 Uploaded CSV File
-Screenshot
+
 
 <img width="1637" height="876" alt="Screenshot 2026-06-08 201119" src="https://github.com/user-attachments/assets/b6ed3bf2-4fd6-43ee-ac45-420e79c63221" />
 
@@ -33,11 +32,6 @@ Created Source and Destination Datasets
 Linked Service
 
 <img width="1522" height="741" alt="Screenshot 2026-06-08 173612" src="https://github.com/user-attachments/assets/cfa46b2e-8176-471e-99c6-39af5d54a83a" />
-
-
-Get Metadata Activity
-
-
 
 Task 4: Pipeline Development
 Created Copy Data Pipeline
@@ -62,6 +56,3 @@ Provided Storage Access to ADF
 
 <img width="1505" height="877" alt="Screenshot 2026-06-08 201733" src="https://github.com/user-attachments/assets/d24898cf-8db7-4e1b-ab55-e4f9b2e6094b" />
 
-Screenshot
-
-(Add Role Assignment Screenshot)
