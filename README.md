@@ -1,6 +1,6 @@
 ## Celebal Excellence Internship Program (CEI)
 <p>
-Week 4 Assignment Project Title : UBER END-TO-END PROJECT<br>
+Project Title : UBER END-TO-END PROJECT<br>
 Submitted By: Harshit Sharma
 </p>
 
