@@ -1,9 +1,7 @@
 ## Celebal Excellence Internship Program (CEI)
 Week 4 Assignment
-Project Title
-Submitted By:
-Harshit Sharma
-PIET/PU
+Project Title : UBER END-TO-END PROJECT
+Submitted By: Harshit Sharma
 
 Role: Data Engineering Intern
 Assignment Week: Week 4
