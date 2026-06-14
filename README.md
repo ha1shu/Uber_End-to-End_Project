@@ -12,8 +12,13 @@ Domain: Data Engineering
 
 ## UBER END-TO-END PROJECT (Internship Project)
 
-This project is a real-time data engineering pipeline. Data is generated from a web application and pushed to Azure Event Hub. Spark Structured Streaming consumes the events, performs transformations and validations, and loads the processed data into a Star Schema data warehouse for analytics and reporting.
+This project is an end-to-end real-time data engineering pipeline built on Azure. The data originates from an external REST API and is first ingested using Azure Data Factory (ADF). ADF orchestrates and retrieves the raw data from the API, then stores it in the Bronze layer for raw data retention.
 
+After ingestion, the data is published to Azure Event Hub, which acts as a real-time streaming platform. Apache Spark Structured Streaming continuously consumes the events from Event Hub, performs data cleansing, validation, and business transformations, and enriches the records as required.
+
+The transformed data is then processed through a Medallion Architecture consisting of Bronze, Silver, and Gold layers. The Bronze layer stores raw data, the Silver layer contains cleaned and validated data, and the Gold layer contains business-ready datasets.
+
+In the Gold layer, a Star Schema data model is implemented with fact and dimension tables to support analytical workloads. Finally, the curated data can be consumed by reporting and BI tools for dashboards, KPI tracking, and business insights.
 ## Project Architecture
 
 ![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
