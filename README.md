@@ -73,15 +73,3 @@ Provided Storage Access to ADF
 
 <img width="1505" height="877" alt="Screenshot 2026-06-08 201733" src="https://github.com/user-attachments/assets/d24898cf-8db7-4e1b-ab55-e4f9b2e6094b" />
 
-
-Submitted By:
-Harshit Sharma
-PIET/PU
-
-Role: Data Engineering Intern
-Assignment Week: Week 4
-Domain: Data Engineering
-
-Celebal Technologies
-Celebal Excellence Internship Program (CEI)
-2026
