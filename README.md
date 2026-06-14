@@ -10,7 +10,7 @@ Assignment Week: Week 4
 Domain: Data Engineering
 
 
-## UBER END-TO-END PROJECT (Internship Project)
+## UBER END-TO-END PROJECT
 
 This project is an end-to-end real-time data engineering pipeline built on Azure. The data originates from an external REST API and is first ingested using Azure Data Factory (ADF). ADF orchestrates and retrieves the raw data from the API, then stores it in the Bronze layer for raw data retention.
 
