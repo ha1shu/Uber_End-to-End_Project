@@ -12,7 +12,7 @@ Domain: Data Engineering
 
 ## UBER END-TO-END PROJECT (Internship Project)
 
-Built an end-to-end ELT pipeline for Uber ride analytics using Medallion Architecture (Bronze, Silver, and Gold layers). Implemented scalable data ingestion, transformation, and data quality processing workflows to move raw data into analytics-ready datasets. Designed and developed a Star Schema data model in the Gold layer to support downstream BI
+This project is a real-time data engineering pipeline. Data is generated from a web application and pushed to Azure Event Hub. Spark Structured Streaming consumes the events, performs transformations and validations, and loads the processed data into a Star Schema data warehouse for analytics and reporting.
 
 ## Project Architecture
 
