@@ -1,3 +1,15 @@
+## Celebal Excellence Internship Program (CEI)
+Week 4 Assignment
+Project Title
+Submitted By:
+Harshit Sharma
+PIET/PU
+
+Role: Data Engineering Intern
+Assignment Week: Week 4
+Domain: Data Engineering
+
+
 ## UBER END-TO-END PROJECT (Internship Project)
 
 Built an end-to-end ELT pipeline for Uber ride analytics using Medallion Architecture (Bronze, Silver, and Gold layers). Implemented scalable data ingestion, transformation, and data quality processing workflows to move raw data into analytics-ready datasets. Designed and developed a Star Schema data model in the Gold layer to support downstream BI
@@ -56,3 +68,15 @@ Provided Storage Access to ADF
 
 <img width="1505" height="877" alt="Screenshot 2026-06-08 201733" src="https://github.com/user-attachments/assets/d24898cf-8db7-4e1b-ab55-e4f9b2e6094b" />
 
+
+Submitted By:
+Harshit Sharma
+PIET/PU
+
+Role: Data Engineering Intern
+Assignment Week: Week 4
+Domain: Data Engineering
+
+Celebal Technologies
+Celebal Excellence Internship Program (CEI)
+2026
